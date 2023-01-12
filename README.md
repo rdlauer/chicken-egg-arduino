@@ -7,4 +7,8 @@ In this two-part Hackster project, I show how to create a:
 - ...relaying those inferences to the cloud using a cellular module 📶
 - ...and sending an SMS notification if an egg is detected 📲.
 
+Part one firmware is in the `chicken-image` directory.
+
+Part two firmware is coming soon.
+
 ![project workflow](workflow-banner.jpg)
