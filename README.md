@@ -1,6 +1,6 @@
 # ID Chicken Eggs with Thermal Images, ML, and Cellular IoT
 
-In this two-part Hackster project, I show how to create a:
+In this two-part Hackster project ([part one here](https://www.hackster.io/rob-lauer/id-chicken-eggs-with-thermal-images-ml-and-cellular-iot-748c88), part two coming soon), I show how to create a:
 
 - Machine Learning-based IoT solution to detect the presence of a chicken egg 🐣
 - ...using images provided by a thermal IR camera 🔥
